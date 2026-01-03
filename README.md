@@ -123,7 +123,10 @@ Provide business-ready, aggregated datasets for reporting and analytics.
 **Islam Ansari**  
 Data Engineer  
 
-- LinkedIn: *(https://www.linkedin.com/in/islam-ansari-133261196/)*  
+- LinkedIn: *(https://www.linkedin.com/in/islam-ansari-133261196/)*
+
+
+This project has been build via the Udemy course - Databricks Certified Data Engineer Associate (by Ramesh Retnaswamy)
 
 
 
